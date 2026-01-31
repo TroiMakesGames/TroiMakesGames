@@ -12,4 +12,4 @@
 </div> -->
 
 <!-- WORKS BUT ONLY SHOWS PUBLIC REPOS, THEREFORE ITS TURNED OFF UNTIL I SET SOMETHING OTHER THAN PYTHON TO PUBLIC -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiGDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiGDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
