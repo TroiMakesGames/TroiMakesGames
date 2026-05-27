@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Troi!
-- 👀 I’m interested in programming (Game development and Modding, Competitive programming, App development), Digital art/Graphic design and Videogame music production;
-- 🌱 My current project goal is a mobile game for Google Play;
-- 🎮 Languages I know: C#, Python, ArduinoC, JavaScript, HTML and CSS, actively learning Kotlin, Java and XML;
-- 💞️ I’m looking to collaborate on GameDevelopment with Unity or Godot;
-- 📫 How to reach me: Instagram: troi.makes.games;
+- 👀 I’m interested in programming (Game development and Modding, Competitive programming, App development), Digital art (Graphic design, Animation, 3D Mockups) and Videogame music production;
+- 🌱 My current project goal is a CV / Portfolio Webpage (for easier internship searches 👀);
+- 🎮 Languages I know / used before: C#, Python, ArduinoC, JavaScript, HTML, CSS, Kotlin, Java, XML, GDScript;
+- 💞️ I’m looking to collaborate on GameDevelopment with Unity (or Godot);
+- 📫 How to reach me: Instagram: troi.makes.games; Itch.io: troidev
 
 <!-- <div style="display: flex;">
     <img src="Pictures/RektItLogo%5FOneD%5F700.png" alt="RektIt Logo" width="200"/>
