@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Troi!
 - 👀 I’m interested in programming (Game development and Modding, Competitive programming, App development), Digital art (Graphic design, Animation, 3D Mockups) and Videogame music production;
-- 🌱 My current project goal is a CV / Portfolio Webpage (for easier internship searches 👀);
+- 🌱 My current project goal is yet another game for Google Play or Steam;
 - 🎮 Languages I know / used before: C#, Python, ArduinoC, JavaScript, HTML, CSS, Kotlin, Java, XML, GDScript;
 - 💞️ I’m looking to collaborate on GameDevelopment with Unity (or Godot);
 - 📫 How to reach me: Instagram: troi.makes.games; Itch.io: troidev
