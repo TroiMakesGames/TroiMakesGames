@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Troi!
-- 👀 I’m a solo indie game developer -  <a href="https://linktr.ee/troimakesgames">check out my games</a>
-- 📫 How to reach me: Instagram: troi.makes.games; Itch.io: troidev
+👋 Hi, I’m Troi!<br>
+👀 I’m a solo indie game developer: <br>
+<a href="https://troidev.itch.io">TroiMakesGames - Itch.io</a> <br>
+<a href="https://play.google.com/store/apps/details?id=com.troimakesgames.tossy">Tossy - Google Play </a> <br>
+
+
+📫 Instagram: troi.makes.games
 
 <!-- <div style="display: flex;">
     <img src="Pictures/RektItLogo%5FOneD%5F700.png" alt="RektIt Logo" width="200"/>
