@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Troi!
-- 👀 I’m interested in programming (Game development and Modding, Competitive programming, App development), Digital art (Graphic design, Animation, 3D Mockups) and Videogame music production;
-- 🌱 My current project goal is yet another game for Google Play or Steam;
-- 🎮 Languages I know / used before: C#, Python, ArduinoC, JavaScript, HTML, CSS, Kotlin, Java, XML, GDScript;
-- 💞️ I’m looking to collaborate on GameDevelopment with Unity (or Godot);
+- 👀 I’m a solo indie game developer -  <a href="https://linktr.ee/troimakesgames">check out my games</a>
 - 📫 How to reach me: Instagram: troi.makes.games; Itch.io: troidev
 
 <!-- <div style="display: flex;">
@@ -13,4 +10,5 @@
 
 <!-- WORKS BUT ONLY SHOWS PUBLIC REPOS, THEREFORE ITS TURNED OFF UNTIL I SET SOMETHING OTHER THAN PYTHON TO PUBLIC -->
 <!-- Anurag Hazra version (out of order):       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact)
+<!-- Beastido fork that still works (default card):        ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact) -->
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact&hide=GLSL,HLSL,ShaderLab)
