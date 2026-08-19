@@ -15,5 +15,5 @@
 <!-- WORKS BUT ONLY SHOWS PUBLIC REPOS -->
 <!-- Anurag Hazra version (out of order):       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- Beastido fork that still works (default card):        ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact) -->
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact&hide=GLSL,HLSL,ShaderLab&bg_color=151515&langs_count=8&text_color=9f9f9f&title_color=9f9f9f&border_color=3d3d3d)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TroiMakesGames&layout=compact&hide=GLSL,HLSL,ShaderLab&bg_color=151515&langs_count=8&text_color=9f9f9f&title_color=9f9f9f&border_color=3d3d3d)  
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=TroiMakesGames&theme=dark&border_color=3d3d3d)](https://github.com/pranesh-2005/github-readme-stats-fast)
